@@ -37,7 +37,12 @@ After setting the triangle, you can get the result by calling the 'find_maximum_
 
     ht.find_maximum_value_possible()
 
-# Test Cases
 
+# Test Cases
 A number of tests cases can be found in the 'hell_triangle_tests' file.
 To run the tests, simple run `./hell_triangle_tests.py` from the terminal.
+
+
+# Why Python?
+Python was the chosen language to solve this problem much to the fact that I use it in my other projects and in my work, so it is very natural for me to write code using Python.
+Other reasons can include the easiness to write, debug and deploy code and in Python. The code itself is very direct and simple for others to read.
